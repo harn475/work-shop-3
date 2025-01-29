@@ -39,10 +39,6 @@ maybe make more variations that each cat image can turn into
 
 # Reflection
 
-Certainly! Here's a reference list along with a declaration of your help sources:
-
----
-
 **Reference List:**
 
 1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
