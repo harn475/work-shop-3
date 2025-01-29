@@ -38,3 +38,21 @@ this one was fairly straight forward, and as I said I had a lot of fun. if i ran
 maybe make more variations that each cat image can turn into
 
 # Reflection
+
+Certainly! Here's a reference list along with a declaration of your help sources:
+
+---
+
+**Reference List:**
+
+1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
+   
+2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
+   
+3. Reddit Users.
+
+---
+
+**Declaration:**
+
+I declare that I received help with my coding from my flatmate, who is experienced with programming. Additionally, I conducted several quick Google searches to resolve issues encountered during the development process. These searches helped in understanding how to implement specific features and troubleshoot problems, especially related to p5.js, as well as getting advice from relevant forums and communities.
